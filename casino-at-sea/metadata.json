@@ -1,0 +1,5 @@
+{
+  "name": "Casino At Sea - Craps Trainer",
+  "description": "A standalone training application for Craps dealers featuring multiple difficulty levels, simulation modes, and certification generation.",
+  "requestFramePermissions": []
+}
